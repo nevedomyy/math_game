@@ -2,4 +2,4 @@
 
 Math game
 
-(developed on flutter.io)
+(developed on flutter.io + flare)
